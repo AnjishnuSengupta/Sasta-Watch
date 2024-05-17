@@ -63,47 +63,11 @@ Contributions are welcome! To contribute:
 [![Discord Server Invite](https://discord.com/api/guilds/876398373962412102/widget.png?style=banner2)](https://discord.gg/9qKScMjdPF)
 
 **Follow Me On Instagram**
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Instagram Card</title>
-    <style>
-        .card {
-            width: 300px;
-            border: 1px solid #ccc;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .profile-img {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-        }
-        .username {
-            font-size: 20px;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
-        .followers {
-            margin-bottom: 10px;
-        }
-        .bio {
-            font-size: 14px;
-            color: #666;
-        }
-    </style>
 </head>
 <body>
-    <div class="card">
-        <div><a href="https://www.instagram.com/anjishnu_sengupta/" class="username">anjishnu_sengupta</a></div>
-        <div class="followers">Followers: 37</div>
-        <div class="bio">Dev</div>
-    </div>
+    <div><a href="https://www.instagram.com/anjishnu_sengupta/" class="username">anjishnu_sengupta</a></div>
+    <div class="followers">Followers: 37</div>
+    <div class="bio">Dev</div>
 </body>
 </html>
 
