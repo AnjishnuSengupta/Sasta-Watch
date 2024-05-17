@@ -21,13 +21,7 @@ The Place Only To Watch Top Animes.
 
 <span style="color:red">⚠️ **Warning:** The Website Is not Complete.</span>
 
-> This is the 2% of what i intent to make. Video play and download links will be available soon.
-
-## Website Link
-
-<a href="https://onepunchman2718.github.io/Parallax-Website/">
-   <input type="button" value="Click Here" />
-</a>
+## [Website Link](https://onepunchman2718.github.io/Parallax-Website/)
 
 ###
 
@@ -52,7 +46,7 @@ Contributions are welcome! To contribute:
 3. Make your changes.
 4. Submit a pull request.
 
-**Help Is Needed To Complete & Maintain. Contact Me In [Discord](https://discord.com/users/767783141838159882) Or [Instagram](https://www.instagram.com/anjishnu_sengupta/)**
+**Help Is needed to be completed and maintained. Contact Me In [Discord](https://discord.com/users/767783141838159882) Or [Instagram](https://www.instagram.com/anjishnu_sengupta/)**
 
 <a href='https://discord.com/users/767783141838159882'>
   <img src="https://discord.c99.nl/widget/theme-3/767783141838159882.png" alt="top-langs">
@@ -63,13 +57,18 @@ Contributions are welcome! To contribute:
 [![Discord Server Invite](https://discord.com/api/guilds/876398373962412102/widget.png?style=banner2)](https://discord.gg/9qKScMjdPF)
 
 **Follow Me On Instagram**
-</head>
-<body>
-    <div><a href="https://www.instagram.com/anjishnu_sengupta/" class="username">anjishnu_sengupta</a></div>
-    <div class="followers">Followers: 37</div>
-    <div class="bio">Dev</div>
-</body>
-</html>
+<div  align="center">
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; font-family: Arial, sans-serif; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; margin: 0 auto;">
+    <div height="180em" style="background-color: #f09433; background-image: linear-gradient(315deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; padding: 10px; border-radius: 10px 10px 0 0;">
+        <img src="https://i.postimg.cc/8C5D1jWw/Png-Item-5330857.png" alt="Profile Picture" style="border-radius: 50%; border: 2px solid white; width: 50px; height: 50px;">
+        <h2 style="margin: 10px 0 0 0;">@anjishnu_sengupta</h2>
+    </div>
+    <div style="padding: 10px;">
+        <p style="margin: 10px 0; font-size: 18px;">41 Followers</p>
+        <a href="https://www.instagram.com/anjishnu_sengupta"><img src="https://img.buymeacoffee.com/button-api/?text=Follow&slug=anjishnu_sengupta&emoji=🔔&button_colour=963f39&font_colour=000000&font_family=Arial&outline_colour=0a0100" /></a>
+    </div>
+</div>
+</div>
 
 ## License
 
