@@ -100,7 +100,6 @@ Contributions are welcome! To contribute:
 </head>
 <body>
     <div class="card">
-        <img class="profile-img" src="https://i.postimg.cc/8C5D1jWw/Png-Item-5330857.png" alt="Profile Picture">
         <div><a href="https://www.instagram.com/anjishnu_sengupta/" class="username">anjishnu_sengupta</a></div>
         <div class="followers">Followers: 37</div>
         <div class="bio">Dev</div>
